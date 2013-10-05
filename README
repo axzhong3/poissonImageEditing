@@ -1,0 +1,3 @@
+Poisson Image Editing
+-----------------------------------------------
+This project implements cloning of a source image patch on a background image by solving Poisson equations and applying boundary conditions.
